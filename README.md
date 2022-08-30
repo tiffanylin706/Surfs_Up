@@ -32,9 +32,12 @@ Based on the activity from August 23, 2016 - August 23, 2017, the average was 18
 In total, there were (9) stations with `USC00519281` showing the highest amount of observations at 2,772 entries. We used the information from this station to review the temperature for the same time period. The results showed that the average temperature throughout the year was **72°F** with a low of **54°F** and a high of **85°F**. 
 ![Tob](https://github.com/tiffanylin706/Surfs_Up/blob/72ec2e1e9b243dc62d0d4ca1e43213e856661150/Resources/Tob.png)
 
-**three major points** in the month of **June** and **December** regardless of year, the results showed:
+* **three major points** in the month of **June** and **December** regardless of year, the results showed:
 1. The average temperature is in the 70's.
 2. Both June and December showed similar min/max and average temperatures.
 3. the temperature does not have dramatic fluctuations throughout the year.
 
 ![June](https://github.com/tiffanylin706/Surfs_Up/blob/72ec2e1e9b243dc62d0d4ca1e43213e856661150/Resources/JuneTemp.png)![December](https://github.com/tiffanylin706/Surfs_Up/blob/72ec2e1e9b243dc62d0d4ca1e43213e856661150/Resources/DecTemp.png)
+
+## Summary
+In summary, the temperature in Oahu is relatively the same throughout the year and the chances of continuous rainfall is low. Investing in **Surf n' Shake** should be a good business venture and that Oahu, Hawaii is the ideal location.
